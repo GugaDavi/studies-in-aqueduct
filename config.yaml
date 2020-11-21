@@ -1,0 +1,7 @@
+database:
+  host: "localhost"
+  username: "postgres"
+  password: "docker"
+  port: 5432
+  databaseName: "test"
+port: 3333
